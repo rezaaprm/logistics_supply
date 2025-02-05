@@ -1,7 +1,7 @@
 ## Dashboard of Logistics Supply using Streamlit Framework
 
 ### Project Demo Online
-- Link Streamlit :
+- Link Streamlit :  https://office-supplies-dashboard.streamlit.app/
 
 ### Hardware Testing
 - ASUS VIVOBOOK X415
